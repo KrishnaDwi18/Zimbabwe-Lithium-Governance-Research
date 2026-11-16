@@ -1,0 +1,100 @@
+
+ZIMBABWE LITHIUM GOVERNANCE
+PRELIMINARY EVIDENCE AUDIT REPORT
+
+1. RESEARCH SCOPE
+
+This evidence audit examines four lithium projects:
+Arcadia, Bikita, Sabi Star, and Sandawana.
+
+Total documented claims: 13
+
+2. PRELIMINARY OBSERVATIONS
+
+Arcadia:
+The register includes claims concerning concentrate
+exports and lithium sulphate processing capacity.
+
+Bikita:
+The register includes claims concerning ore-processing
+capacity, concentrate capacity, and exports.
+
+Sabi Star:
+The register currently contains one audited claim
+concerning ore-processing capacity.
+
+Sandawana:
+The register distinguishes reported FY2025 production
+from management forecasts for FY2026.
+
+3. EVIDENCE LIMITATIONS
+
+Several claims require primary-source confirmation,
+independent corroboration, or exact passage verification.
+
+Reported capacity, actual production, exports, and
+forecasts are different indicators and must not be
+treated as interchangeable.
+
+4. RESEARCH RELEVANCE
+
+These observations provide a starting point for examining
+industrial development, beneficiation, and the governance
+of lithium extraction in Zimbabwe.
+
+They do not yet establish conclusions about local value
+capture, foreign dependence, or climate justice.
+
+
+5. RESEARCH METHODOLOGY
+
+This study uses a structured, project-level
+evidence-auditing approach.
+
+Four Zimbabwean lithium projects were selected:
+Arcadia, Bikita, Sabi Star, and Sandawana.
+
+The research database records:
+- Project names and observation IDs
+- Production, capacity, and export claims
+- Original sources and available supporting sources
+- Verification status and research notes
+
+Python and Pandas were used to organize,
+inspect, and summarize the evidence.
+
+The analysis distinguishes:
+- Reported actual production
+- Design or planned capacity
+- Export quantities
+- Management forecasts
+
+Verification remains provisional.
+Claims requiring further source examination
+are explicitly identified.
+
+
+6. CONCLUSION AND NEXT STEPS
+
+This preliminary audit documents 13 claims
+across four lithium projects in Zimbabwe.
+
+The analysis highlights three priorities:
+
+1. Verify production and export figures
+   against original company or government records.
+
+2. Distinguish operational output from
+   processing capacity and future projections.
+
+3. Expand evidence collection on domestic
+   beneficiation, local economic benefits,
+   and environmental and community impacts.
+
+The current dataset is an initial research
+resource rather than a definitive assessment
+of Zimbabwe's lithium sector.
+
+Further verification and analysis are needed
+before drawing conclusions about green
+extractivism and climate justice.
