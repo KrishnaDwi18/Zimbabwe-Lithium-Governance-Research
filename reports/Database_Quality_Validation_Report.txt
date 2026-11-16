@@ -1,0 +1,32 @@
+
+ZIMBABWE LITHIUM GOVERNANCE RESEARCH
+DATABASE QUALITY VALIDATION REPORT
+========================================
+
+Research scope: Zimbabwe lithium governance
+Core case studies: Arcadia, Bikita, Sabi Star, Sandawana
+
+DATABASE STRUCTURE
+Registered projects: 6
+Total observations: 39
+National observations: 8
+Project-level observations: 31
+
+DATA INTEGRITY
+Duplicate observation IDs: 0
+Missing observation IDs: 0
+Invalid project-level references: 0
+
+SOURCE TRACEABILITY
+Registered sources: 32
+Unique sources referenced: 13
+Unregistered source IDs: 0
+
+LIMITATIONS
+These checks validate database structure and source-ID
+relationships. They do not independently verify the
+accuracy of investment, production, or policy claims.
+
+STATUS
+Structural validation completed.
+Further source verification is required.
