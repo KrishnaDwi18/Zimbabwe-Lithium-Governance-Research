@@ -1,89 +1,91 @@
-# Zimbabwe Lithium Governance Research (2010–2026)
+# Zimbabwe Lithium Governance Research
 
-### Green Extractivism, Global Value Chains and Climate Justice
+**A Python-Based Research Database and Preliminary Evidence Audit**
 
-**Research project:** Green Extractivism and Climate Justice: A Case Study of Lithium Governance in Zimbabwe
+## Project Overview
 
-**Researcher:** PhD Candidate, Centre for African Studies, Jawaharlal Nehru University (JNU), India
+This project develops a structured research database to examine lithium mining and governance in Zimbabwe.
 
-## 1. About the Project
+It focuses on four lithium projects:
 
-This research examines the governance of lithium resources in Zimbabwe between 2010 and 2026. It investigates how foreign investment, state policies, mineral ownership and global value chains shape the distribution of economic benefits and environmental burdens.
-
-The project focuses on four lithium assets:
-
+- Arcadia
 - Bikita Minerals
-- Arcadia Lithium Project
-- Sabi Star Mine
-- Sandawana Mine
+- Sabi Star
+- Sandawana
 
-## 2. Research Objectives
+The project forms part of a broader research interest in green extractivism, critical minerals, domestic beneficiation, and climate justice.
 
-- Examine ownership and control of Zimbabwe's lithium assets.
-- Analyse foreign investment and domestic capital expenditure.
-- Investigate employment generation and local economic benefits.
-- Assess beneficiation, value addition and Zimbabwe's position in global lithium value chains.
-- Examine the distribution of environmental and social costs through a climate justice framework.
+## Research Objectives
 
-## 3. Theoretical Framework
+1. Organize project-level information on Zimbabwe's lithium industry.
+2. Document production, processing capacity, investment, and export indicators.
+3. Track original sources and assess the reliability of reported figures.
+4. Distinguish actual production from design capacity, planned investments, and forecasts.
+5. Develop reproducible Python-based research workflows.
 
-The research draws on:
+## Methodology
 
-- Dependency Theory
-- Global Value Chain Analysis
-- Climate Justice: distributive, procedural and recognition justice
+The project uses secondary-source research, structured data collection, and preliminary evidence auditing.
 
-## 4. Research Methodology
+The current evidence register contains **13 documented claims across four lithium projects**.
 
-The project uses a qualitative, comparative case-study approach supported by structured documentary data and descriptive quantitative analysis.
+Claims are assessed according to their available sources, verification status, and research limitations.
 
-Research materials include policy documents, company disclosures, government publications, academic research, media reports and civil-society documentation.
+**Important:** The evidence audit is provisional. Several figures require primary-source confirmation or independent corroboration.
 
-Python and Excel are used for data organisation, cleaning, comparative analysis and visualisation.
+## Technical Skills Demonstrated
 
-## 5. Repository Structure
+- Python programming
+- Pandas for data cleaning and analysis
+- Microsoft Excel and CSV data management
+- Matplotlib for data visualization
+- Source tracking and evidence auditing
+- Google Colab and GitHub
+- Research documentation and reporting
 
-The repository will contain:
+## Repository Structure
 
-- `data/` – structured research datasets
-- `notebooks/` – Python analysis notebooks
-- `src/` – reusable Python scripts
-- `outputs/` – comparative tables and visualisations
-- `reports/` – research reports and preliminary findings
-- `evidence/` – evidence verification documentation
+```text
+Zimbabwe-Lithium-Governance-Research/
+├── data/
+├── evidence/
+│   └── Zimbabwe_Lithium_Source_Verification.csv
+├── notebooks/
+│   ├── 06_Source_Verification.ipynb
+│   └── 07_Research_Findings_Report.ipynb
+├── outputs/
+├── reports/
+│   └── Zimbabwe_Lithium_Preliminary_Report.txt
+└── src/
+```
 
-## 6. Current Research Status
+Other project files and earlier notebooks may also be present in these folders.
 
-**Version 1.0 – Preliminary research portfolio**
+## Preliminary Results
 
-The research database and preliminary comparative analysis have been developed. Evidence verification and comparative interpretation remain subject to continued review as additional documentary evidence becomes available.
+The evidence audit currently documents:
 
-Figures reported by companies, governments, media and civil-society organisations are distinguished according to their source and verification status.
+- Arcadia: 4 claims
+- Bikita Minerals: 4 claims
+- Sabi Star: 1 claim
+- Sandawana: 4 claims
 
-## 7. Research Principles
+These figures represent the number of claims recorded in the audit, not the number of independently verified findings.
 
-- Preserve traceability between observations and sources.
-- Distinguish actual expenditure from planned and committed investment.
-- Distinguish processing capacity from actual production.
-- Do not treat forecasts as achieved outcomes.
-- Record missing information transparently.
-- Avoid presenting contested claims as established facts.
+## Future Development
 
-## 8. Tools
+The next phase will focus on strengthening source verification, expanding project-level observations, improving reproducibility, and examining domestic value addition and governance outcomes.
 
-- Python
-- Pandas
-- Matplotlib
-- Excel
-- Jupyter / Google Colab
-- Git and GitHub
+## Researcher
 
-## 9. Disclaimer
+**Krishnakant Dwivedi**
 
-This repository is an independent academic research project. Preliminary findings are subject to further verification and should not be interpreted as final conclusions.
+PhD Candidate, Centre for African Studies  
+School of International Studies  
+Jawaharlal Nehru University, New Delhi, India
 
-Source materials remain subject to their respective copyright and usage conditions. The repository will not publish confidential interview material or personal information without appropriate permission.
+**Research interests:** African Studies, International Relations, Critical Minerals, Green Extractivism, and Climate Justice.
 
----
+## Disclaimer
 
-**Research focus:** Zimbabwe | Lithium Governance | Green Extractivism | Climate Justice | Global Value Chains
+This is an ongoing academic research project. The database and preliminary report should not be treated as definitive assessments of Zimbabwe's lithium sector. All figures should be checked against their cited sources before use in publications or policy analysis.
