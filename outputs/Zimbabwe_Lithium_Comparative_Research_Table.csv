@@ -1,0 +1,32 @@
+Project_Name,Year,Indicator,Value,Unit,Actual_or_Forecast,Verification_Status,Source_IDs
+Arcadia-Huayou Cobalt,2021,Ore_Reserve_JORC,42.3,million tonnes,Actual,Primary verified,SRC_17
+Arcadia-Huayou Cobalt,2022,Acquisition_Price_Paid,422000000.0,USD,Actual,Corroborated,SRC_01; SRC_09
+Arcadia-Huayou Cobalt,2023,Capex_Spent_Reported,300000000.0,USD,Actual,Corroborated,SRC_09
+Arcadia-Huayou Cobalt,2024,Concentrate_Exports,400000.0,tonnes,Actual,Single-source claim,SRC_09
+Arcadia-Huayou Cobalt,2025,Capex_Spent_Sulphate_Plant,400000000.0,USD,Actual,Corroborated,SRC_08; SRC_32
+Arcadia-Huayou Cobalt,2025,Employment_Direct_Local,2000.0,employees,Actual,Single-source claim,SRC_01
+Arcadia-Huayou Cobalt,2025,Lithium_Sulphate_Capacity_Alt,60000.0,tonnes/year,Planned,Single-source claim,SRC_09
+Arcadia-Huayou Cobalt,2025,Lithium_Sulphate_Capacity_SMM,50000.0,tonnes/year,Actual,Corroborated,SRC_08; SRC_32
+Arcadia-Huayou Cobalt,2026,Lithium_Sulphate_Exports_Apr_Sep,33000.0,tonnes,Actual,Single-source claim,SRC_32
+Bikita Minerals,2022,Acquisition_Price_Paid,180000000.0,USD,Actual,Corroborated,SRC_01; SRC_16
+Bikita Minerals,2022,Employment_Direct,320.0,employees,Actual,Single-source claim,SRC_10
+Bikita Minerals,2023,Capex_Spent_Expansion,300000000.0,USD,Actual,Corroborated,SRC_01
+Bikita Minerals,2023,Ore_Processing_Capacity,4000000.0,tonnes/year,Actual,Corroborated,SRC_01; SRC_10
+Bikita Minerals,2023,Petalite_Concentrate_Capacity,300000.0,tonnes/year,Actual,Corroborated,SRC_10
+Bikita Minerals,2023,Spodumene_Concentrate_Capacity,300000.0,tonnes/year,Actual,Corroborated,SRC_10
+Bikita Minerals,2025,Concentrate_Exports,300000.0,tonnes,Actual,Single-source claim,SRC_10
+Bikita Minerals,2026,Capex_Committed,400000000.0,USD,Planned,Disputed,SRC_24
+Bikita Minerals,2026,Employment_Direct,1407.0,employees,Actual,Single-source claim,SRC_10
+Bikita Minerals,2026,Tax_Contribution_Q3,80000000.0,USD,Actual,Single-source claim,SRC_22
+Sabi Star Lithium-Tantalum Mine,2021,Acquisition_Price_Paid,76500000.0,USD,Actual,Corroborated,SRC_01; SRC_02
+Sabi Star Lithium-Tantalum Mine,2023,Ore_Processing_Capacity,900000.0,tonnes/year,Actual,Corroborated,SRC_02
+Sabi Star Lithium-Tantalum Mine,2024,Employment_Direct,450.0,employees,Actual,Disputed,SRC_02; SRC_01
+Sabi Star Lithium-Tantalum Mine,2024,Power_Generation_Capacity,15.0,MW,Actual,Corroborated,SRC_01
+Sabi Star Lithium-Tantalum Mine,2026,Capex_Planned_Announced,244000000.0,USD,Announced,Single-source claim,SRC_11
+Sandawana Lithium Mine,2023,Employment_Direct,1000.0,employees,Actual,Disputed,SRC_02
+Sandawana Lithium Mine,2025,Concentrate_Production_FY2025,73000.0,tonnes,Actual,Single-source claim,SRC_12
+Sandawana Lithium Mine,2025,Ore_Mined_FY2025,343000.0,tonnes,Actual,Single-source claim,SRC_12
+Sandawana Lithium Mine,2026,Capex_Committed,250000000.0,USD,Planned,Single-source claim,SRC_12
+Sandawana Lithium Mine,2026,Concentrate_Production_FY2026_Forecast,162000.0,tonnes,Forecast,Single-source claim,SRC_12
+Sandawana Lithium Mine,2026,Cumulative_Export_Proceeds,117300000.0,USD,Actual,Single-source claim,SRC_12
+Sandawana Lithium Mine,2026,Ore_Mined_FY2026_Forecast,1800000.0,tonnes,Forecast,Single-source claim,SRC_12
