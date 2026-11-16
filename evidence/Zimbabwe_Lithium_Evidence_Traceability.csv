@@ -1,0 +1,32 @@
+Observation_ID,Project_ID,Year,Indicator,Value,Unit,Source_IDs,Verification_Status,Actual_or_Forecast
+OBS_001,Zim_L1,2021,Ore_Reserve_JORC,42.3,million tonnes,SRC_17,Primary verified,Actual
+OBS_002,Zim_L1,2022,Acquisition_Price_Paid,422000000.0,USD,SRC_01; SRC_09,Corroborated,Actual
+OBS_003,Zim_L1,2023,Capex_Spent_Reported,300000000.0,USD,SRC_09,Corroborated,Actual
+OBS_004,Zim_L1,2024,Concentrate_Exports,400000.0,tonnes,SRC_09,Single-source claim,Actual
+OBS_005,Zim_L1,2025,Employment_Direct_Local,2000.0,employees,SRC_01,Single-source claim,Actual
+OBS_006,Zim_L1,2025,Capex_Spent_Sulphate_Plant,400000000.0,USD,SRC_08; SRC_32,Corroborated,Actual
+OBS_007,Zim_L1,2025,Lithium_Sulphate_Capacity_SMM,50000.0,tonnes/year,SRC_08; SRC_32,Corroborated,Actual
+OBS_007B,Zim_L1,2025,Lithium_Sulphate_Capacity_Alt,60000.0,tonnes/year,SRC_09,Single-source claim,Planned
+OBS_007C,Zim_L1,2026,Lithium_Sulphate_Exports_Apr_Sep,33000.0,tonnes,SRC_32,Single-source claim,Actual
+OBS_008,Zim_L2,2022,Acquisition_Price_Paid,180000000.0,USD,SRC_01; SRC_16,Corroborated,Actual
+OBS_009,Zim_L2,2022,Employment_Direct,320.0,employees,SRC_10,Single-source claim,Actual
+OBS_010,Zim_L2,2023,Capex_Spent_Expansion,300000000.0,USD,SRC_01,Corroborated,Actual
+OBS_010B,Zim_L2,2023,Ore_Processing_Capacity,4000000.0,tonnes/year,SRC_01; SRC_10,Corroborated,Actual
+OBS_010C,Zim_L2,2023,Spodumene_Concentrate_Capacity,300000.0,tonnes/year,SRC_10,Corroborated,Actual
+OBS_010D,Zim_L2,2023,Petalite_Concentrate_Capacity,300000.0,tonnes/year,SRC_10,Corroborated,Actual
+OBS_011,Zim_L2,2025,Concentrate_Exports,300000.0,tonnes,SRC_10,Single-source claim,Actual
+OBS_012,Zim_L2,2026,Employment_Direct,1407.0,employees,SRC_10,Single-source claim,Actual
+OBS_013,Zim_L2,2026,Tax_Contribution_Q3,80000000.0,USD,SRC_22,Single-source claim,Actual
+OBS_014,Zim_L2,2026,Capex_Committed,400000000.0,USD,SRC_24,Disputed,Planned
+OBS_015,Zim_L3,2021,Acquisition_Price_Paid,76500000.0,USD,SRC_01; SRC_02,Corroborated,Actual
+OBS_016,Zim_L3,2023,Ore_Processing_Capacity,900000.0,tonnes/year,SRC_02,Corroborated,Actual
+OBS_017,Zim_L3,2024,Employment_Direct,450.0,employees,SRC_02; SRC_01,Disputed,Actual
+OBS_018,Zim_L3,2024,Power_Generation_Capacity,15.0,MW,SRC_01,Corroborated,Actual
+OBS_019,Zim_L3,2026,Capex_Planned_Announced,244000000.0,USD,SRC_11,Single-source claim,Announced
+OBS_020,Zim_L4,2023,Employment_Direct,1000.0,employees,SRC_02,Disputed,Actual
+OBS_021,Zim_L4,2025,Ore_Mined_FY2025,343000.0,tonnes,SRC_12,Single-source claim,Actual
+OBS_022,Zim_L4,2025,Concentrate_Production_FY2025,73000.0,tonnes,SRC_12,Single-source claim,Actual
+OBS_023,Zim_L4,2026,Ore_Mined_FY2026_Forecast,1800000.0,tonnes,SRC_12,Single-source claim,Forecast
+OBS_024,Zim_L4,2026,Concentrate_Production_FY2026_Forecast,162000.0,tonnes,SRC_12,Single-source claim,Forecast
+OBS_025,Zim_L4,2026,Cumulative_Export_Proceeds,117300000.0,USD,SRC_12,Single-source claim,Actual
+OBS_026,Zim_L4,2026,Capex_Committed,250000000.0,USD,SRC_12,Single-source claim,Planned
