@@ -1,80 +1,135 @@
 # Zimbabwe Lithium Governance Research
 
-**A Python-Based Research Database and Preliminary Evidence Audit**
+### An Interactive Research Dashboard and Python-Based Evidence Database
+
+**Critical Minerals | Political Economy | Green Extractivism | Climate Justice | Data Analytics**
+
+[![Live Dashboard](https://img.shields.io/badge/Explore-Live_Dashboard-00875A)](https://krishnadwi18.github.io/Zimbabwe-Lithium-Governance-Research/)
+![Python](https://img.shields.io/badge/Python-Data_Analytics-blue)
+![Research](https://img.shields.io/badge/Research-Ongoing-orange)
+
+## Explore the Interactive Dashboard
+
+[Launch the Zimbabwe Lithium Governance Dashboard](https://krishnadwi18.github.io/Zimbabwe-Lithium-Governance-Research/)
+
+The dashboard provides an interactive platform for exploring foreign investment, mineral beneficiation, national production, policy developments and climate justice in Zimbabwe's lithium sector.
 
 ## Project Overview
 
-This project develops a structured research database to examine lithium mining and governance in Zimbabwe.
+This interdisciplinary research project combines international political economy, African Studies and computational social science to examine Zimbabwe's emerging lithium industry within the global green energy transition.
 
-It focuses on four lithium projects:
+The project is aligned with my doctoral research:
 
-- Arcadia
-- Bikita Minerals
-- Sabi Star
-- Sandawana
+**Green Extractivism and Climate Justice: A Case Study of Lithium Governance in Zimbabwe (2015–2026).**
 
-The project forms part of a broader research interest in green extractivism, critical minerals, domestic beneficiation, and climate justice.
+## Mining Case Studies
+
+| Project | Research Focus |
+|---|---|
+| Arcadia | Foreign investment and downstream processing |
+| Bikita Minerals | Mining expansion and community impacts |
+| Sabi Star | Investment and processing capacity |
+| Sandawana | Domestic beneficiation and evidence gaps |
 
 ## Research Objectives
 
-1. Organize project-level information on Zimbabwe's lithium industry.
-2. Document production, processing capacity, investment, and export indicators.
-3. Track original sources and assess the reliability of reported figures.
-4. Distinguish actual production from design capacity, planned investments, and forecasts.
-5. Develop reproducible Python-based research workflows.
+- Examine Zimbabwe's position within the global lithium value chain.
+- Analyse foreign investment and domestic beneficiation.
+- Track regulatory developments and policy implementation.
+- Investigate distributive, procedural and recognition justice.
+- Develop transparent and reproducible research workflows.
 
-## Methodology
+## Research Database and Outputs
 
-The project uses secondary-source research, structured data collection, and preliminary evidence auditing.
+| Component | Current Coverage |
+|---|---:|
+| Mining case studies | 4 |
+| Mine-level observations | 31 |
+| Documentary sources | 39 |
+| Qualitative evidence records | 21 |
+| Analytical datasets | 12 |
+| Research visualisations | 8 |
+| Interactive dashboard | 1 |
 
-The current evidence register contains **13 documented claims across four lithium projects**.
+## Interactive Dashboard Features
 
-Claims are assessed according to their available sources, verification status, and research limitations.
+- Research overview and key performance indicators
+- Project-level investment and processing analysis
+- National lithium production trends
+- Climate justice and community participation
+- Policy timeline and documentary evidence
+- Interactive project and verification filters
+- Searchable research database
+- Filtered CSV exports
+- Responsive design and light/dark modes
 
-**Important:** The evidence audit is provisional. Several figures require primary-source confirmation or independent corroboration.
+## Research Methodology
+
+The project combines structured secondary-source research, evidence auditing, descriptive statistics, exploratory data analysis and comparative case-study analysis.
+
+Observations are classified according to source reliability, verification status, measurement units and whether they represent actual outcomes, reported capacities or planned investments.
+
+## Selected Research Visualisations
+
+### National Lithium Production
+
+![National Lithium Production](outputs/charts/04_national_production.png)
+
+### Foreign Investment
+
+![Acquisition Prices](outputs/charts/02_acquisition_prices.png)
+
+### Climate Justice
+
+![Bikita Climate Justice](outputs/charts/06_bikita_climate_justice.png)
+
+### Comparative Evidence Availability
+
+![Evidence Matrix](outputs/charts/08_comparative_evidence.png)
 
 ## Technical Skills Demonstrated
 
 - Python programming
-- Pandas for data cleaning and analysis
-- Microsoft Excel and CSV data management
-- Matplotlib for data visualization
-- Source tracking and evidence auditing
+- Pandas and NumPy
+- Matplotlib and scientific visualisation
+- Exploratory data analysis
+- Research database development
+- Data cleaning and quality validation
+- Evidence classification and source tracking
+- HTML, CSS and JavaScript dashboard integration
 - Google Colab and GitHub
-- Research documentation and reporting
+- Research documentation
 
 ## Repository Structure
 
-```text
-Zimbabwe-Lithium-Governance-Research/
-├── data/
-├── evidence/
-│   └── Zimbabwe_Lithium_Source_Verification.csv
-├── notebooks/
-│   ├── 06_Source_Verification.ipynb
-│   └── 07_Research_Findings_Report.ipynb
-├── outputs/
-├── reports/
-│   └── Zimbabwe_Lithium_Preliminary_Report.txt
-└── src/
-```
+| Directory | Description |
+|---|---|
+| data/ | Structured research datasets |
+| evidence/ | Documentary evidence and source verification |
+| notebooks/ | Python research and analysis notebooks |
+| outputs/charts/ | Research visualisations |
+| outputs/tables/ | Analytical datasets |
+| reports/ | Preliminary research reports |
+| src/ | Reusable research scripts |
+| index.html | Interactive research dashboard |
 
-Other project files and earlier notebooks may also be present in these folders.
+## Methodological Limitations
 
-## Preliminary Results
-
-The evidence audit currently documents:
-
-- Arcadia: 4 claims
-- Bikita Minerals: 4 claims
-- Sabi Star: 1 claim
-- Sandawana: 4 claims
-
-These figures represent the number of claims recorded in the audit, not the number of independently verified findings.
+- Missing observations do not indicate zero economic activity.
+- Processing capacity should not be interpreted as actual production.
+- Acquisition expenditure is distinct from productive capital investment.
+- Community survey findings are not nationally representative.
+- Descriptive associations do not establish causal relationships.
+- Source verification and evidence corroboration remain ongoing.
 
 ## Future Development
 
-The next phase will focus on strengthening source verification, expanding project-level observations, improving reproducibility, and examining domestic value addition and governance outcomes.
+- Expansion of primary-source evidence
+- Longitudinal policy analysis
+- Fieldwork and stakeholder interviews in Zimbabwe
+- Cross-case climate justice assessment
+- Global value-chain analysis
+- Integration of additional trade and production datasets
 
 ## Researcher
 
@@ -84,8 +139,8 @@ PhD Candidate, Centre for African Studies
 School of International Studies  
 Jawaharlal Nehru University, New Delhi, India
 
-**Research interests:** African Studies, International Relations, Critical Minerals, Green Extractivism, and Climate Justice.
+**Research Interests:** African Studies, International Relations, Critical Minerals, Political Economy, Green Extractivism and Climate Justice.
 
 ## Disclaimer
 
-This is an ongoing academic research project. The database and preliminary report should not be treated as definitive assessments of Zimbabwe's lithium sector. All figures should be checked against their cited sources before use in publications or policy analysis.
+This repository represents ongoing academic research. The datasets, dashboard and visualisations are preliminary analytical outputs and should not be treated as definitive assessments of Zimbabwe's lithium sector. All figures should be checked against their original sources before academic or policy use.
