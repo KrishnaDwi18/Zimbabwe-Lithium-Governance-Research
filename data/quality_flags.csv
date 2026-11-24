@@ -1,0 +1,32 @@
+﻿Observation_ID,Flags
+OBS_001,No structural flag
+OBS_002,No structural flag
+OBS_003,No structural flag
+OBS_004,Single-source
+OBS_005,Single-source
+OBS_006,No structural flag
+OBS_007,Capacity not output
+OBS_007B,"Not actual; Single-source; Capacity not output; Lower bound, alternative capacity"
+OBS_007C,Single-source; Non-calendar annual period
+OBS_008,No structural flag
+OBS_009,Single-source
+OBS_010,No structural flag
+OBS_010B,Capacity not output
+OBS_010C,Capacity not output
+OBS_010D,Capacity not output
+OBS_011,Single-source
+OBS_012,Single-source
+OBS_013,Single-source; Non-calendar annual period
+OBS_014,Disputed; Not actual
+OBS_015,No structural flag
+OBS_016,Capacity not output
+OBS_017,Disputed
+OBS_018,Capacity not output
+OBS_019,Not actual; Single-source
+OBS_020,Disputed
+OBS_021,Single-source; Non-calendar annual period
+OBS_022,Single-source; Non-calendar annual period
+OBS_023,Not actual; Single-source; Non-calendar annual period
+OBS_024,Not actual; Single-source; Non-calendar annual period
+OBS_025,Single-source; Non-calendar annual period
+OBS_026,Not actual; Single-source
